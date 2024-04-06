@@ -1,7 +1,7 @@
 {
   "name": "tea_ra",
   "version": "1.0.0",
-  "description": "Your description here",
+  "description": "Tea RA project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,8 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "existing_dependency": "version_number",
-    "new_dependency": "version_number"
+    "existing_dependency": "^1.2.3", // Replace with actual version number
+    "new_dependency": "^2.0.0" // Replace with actual version number and name
   }
 }
+
