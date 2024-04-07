@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bbb123bbb456/tea_ra#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "lodash": "^4.17.21",
     "tea_ra": "^1.0.0"
   }
