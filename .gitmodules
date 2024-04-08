@@ -1,0 +1,6 @@
+[submodule "dependencies/Calculator-on-Monad"]
+	path = dependencies/Calculator-on-Monad
+	url = https://github.com/bbb123bbb456/Calculator-on-Monad.git
+[submodule "Calculator-on-Monad"]
+	path = Calculator-on-Monad
+	url = https://github.com/bbb123bbb456/Calculator-on-Monad.git
